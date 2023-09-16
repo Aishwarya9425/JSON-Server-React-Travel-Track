@@ -1,9 +1,112 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "cities": [
+    {
+      "cityName": "Bengaluru",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My home💖",
+      "position": {
+        "lat": 12.927932376709387,
+        "lng": 77.55401909163476
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Oslo",
+      "country": "Norway",
+      "emoji": "🇳🇴",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "Experienced Magical northern lights here🤩",
+      "position": {
+        "lat": 59.911491,
+        "lng": 10.757933
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "San Jose",
+      "country": "United States",
+      "emoji": "🇺🇸",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Silicon Valley👩‍💻",
+      "position": {
+        "lat": 37.342205,
+        "lng": -121.85199
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Puducherry",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "notes": "My first solo trip😍😍",
+      "date": "2023-09-16T14:27:17.314Z",
+      "position": {
+        "lat": "11.920841415399476",
+        "lng": "79.82940673828126"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Kathmandu",
+      "country": "Nepal",
+      "emoji": "🇳🇵",
+      "notes": "Amazing Nepal",
+      "date": "2023-09-16T14:27:37.223Z",
+      "position": {
+        "lat": "27.704913882075463",
+        "lng": "85.38574218750001"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Hale",
+      "country": "Australia",
+      "emoji": "🇦🇺",
+      "notes": "Australia",
+      "date": "2023-09-16T14:28:00.823Z",
+      "position": {
+        "lat": "-24.477923623064427",
+        "lng": "135.00000000000003"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Pamplemousses",
+      "country": "Mauritius",
+      "emoji": "🇲🇺",
+      "notes": "Mauritius trip!!!",
+      "date": "2023-09-16T14:28:16.455Z",
+      "position": {
+        "lat": "-20.153763947065713",
+        "lng": "57.58209228515626"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Iisalmi",
+      "country": "Finland",
+      "emoji": "🇫🇮",
+      "notes": "Finland!!!",
+      "date": "2023-09-16T14:28:53.566Z",
+      "position": {
+        "lat": "63.35387546814173",
+        "lng": "27.070312500000004"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Tura",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "notes": "Russia",
+      "date": "2023-09-16T14:29:48.118Z",
+      "position": {
+        "lat": "64.47369018689919",
+        "lng": "101.42578125000001"
+      },
+      "id": 98443203
+    }
+  ]
 }
